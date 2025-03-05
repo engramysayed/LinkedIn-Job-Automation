@@ -18,8 +18,8 @@
 ## 📥 Installation Guide
 
 ### **1. Clone the Repository**
-Contact me to get the access
- 
+. 
+
 ### **2. Install Dependencies**
 Ensure you have **Java (JDK 8+)** and **Microsoft Edge WebDriver** installed.
 
